@@ -1,2 +1,0 @@
-# mozadevelopment
-ejemplo moza development
